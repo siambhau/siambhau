@@ -29,12 +29,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Siam-Bruh/Siam-Bruh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>  
-
----
 
 ## 🌎 Visitor Counter  
 <p align="center">
