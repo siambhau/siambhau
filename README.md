@@ -16,15 +16,15 @@
 
 ## 📊 GitHub Stats   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siam-Bruh&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siam-Bruh&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siambhau&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siambhau&theme=tokyonight" height="180" />
 </p>  
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siam-Bruh&theme=tokyonight&no-frame=false&margin-w=10&margin-h=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siambhau&theme=tokyonight&no-frame=false&margin-w=10&margin-h=10&row=1" />
 </p>  
 
 ---
@@ -32,7 +32,7 @@
 
 ## 🌎 Visitor Counter  
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Siam-Bruh/count.svg" />
+  <img src="https://profile-counter.glitch.me/siambhau/count.svg" />
 </p>  
 
 ---
@@ -46,4 +46,4 @@
 
 ---
 
-<h3 align="center">Follow <a href="https://github.com/Siam-Bruh">Siam-Bruh</a></h3>
+<h3 align="center">Follow <a href="https://github.com/siambhau">SiamBhau</a></h3>
